@@ -1,0 +1,25 @@
+CMS_URL=
+CMS_API_KEY=
+
+NATION_SLUG=
+SITE_SLUG=
+API_KEY=
+
+# NationBuilder blog IDs, separate by comma
+BLOG_IDS=
+
+ARCHIVES_URL=
+
+# region names as they appear in NationBuilder post tags, separate by comma
+REGIONS=
+
+# format: <NationBuilder blog ID> <Show title in Keystone>
+# separate by comma
+SHOWS=
+
+# post types in NationBuilder, separate by comma (e.g. news,news analysis,advocacy,satire,sponsored)
+TYPES=
+
+# the below is a testing configuration - change to 100 and true for prod
+POSTS_LIMIT=10
+PAGINATE_POSTS=false
